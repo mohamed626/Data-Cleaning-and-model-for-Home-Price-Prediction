@@ -15,9 +15,9 @@ This data science project series walks through step by step process of how load 
 
 # model 
 --I applay many supervised models 
-1) linear regression model with accuracy 0.8629132245229443
-2) SVM for regression with score 0.6699613938761007
-3) DecisionTreeRegresso with score 0.7041222906354684
+1) linear regression model with accuracy 0.86
+2) SVM for regression with score 0.66
+3) DecisionTreeRegresso with score 0.70
 
 
 
