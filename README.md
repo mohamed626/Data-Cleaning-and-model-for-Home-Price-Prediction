@@ -1,5 +1,5 @@
 # Data-Cleaning-and-model-for-Home-Price-Prediction
-This data science project series walks through step by step process of how load data set (banglore home prices dataset from kaggle.com.) and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation and then build a model using many supervised learning and compear which one have high accuracy, i find the linear regression model have high accuracy, Technology and tools wise this project covers, 
+This data science project series walks through step by step process of how load data set (banglore home prices dataset which i download it from kaggle.com) and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation and then build a model using many supervised learning and compear which one have high accuracy, i find the linear regression model have high accuracy, Technology and tools wise this project covers, 
 1) Python
 2) Jupyter notebook
 3) Numpy and Pandas for data cleaning
